@@ -1,6 +1,6 @@
 # MATLAB---Simulink-----DC-Motor-Driver-based-on-a-full-wave-rectifier
 
-3. Driver based on Full-wave rectifier
+Driver based on Full-wave rectifier
 
 Description:
 
